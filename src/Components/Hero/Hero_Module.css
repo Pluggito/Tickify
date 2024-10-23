@@ -1,0 +1,10 @@
+#header
+{
+    background: url('../../assets/pexels-wendywei-2513612.jpg');
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    min-height: 100vh;
+    position: relative;
+    overflow: 3;
+}
